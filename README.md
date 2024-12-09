@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.svg" alt="Alt text"/>
+  Hi, I am a phoenix rider.
 </p>
